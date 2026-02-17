@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Musta Been Wrong",
+  "base_artist": "Saliva",
+  "createdAt": "2026-02-17T15:44:33.297125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Musta Been Wrong",
+      "artist": "Saliva",
+      "has_synced": false,
+      "path": "select/01_Musta_Been_Wrong_Saliva.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Musta Been Wrong",
+      "artist": "Saliva",
+      "has_synced": false,
+      "path": "select/02_Musta_Been_Wrong_Saliva.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Musta Been Wrong",
+      "artist": "Saliva",
+      "has_synced": true,
+      "path": "select/03_Musta_Been_Wrong_Saliva.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Musta Been Wrong",
+      "artist": "Saliva",
+      "has_synced": false,
+      "path": "select/pl_01_Musta_Been_Wrong_Saliva.txt"
+    }
+  ]
+}
